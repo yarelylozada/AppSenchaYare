@@ -1,0 +1,8 @@
+{
+	"success": true,
+	"usuario": {
+		"nombre":"Yarely",
+		"rol": "Administrador"
+	},
+	"msg": "Error"
+}
